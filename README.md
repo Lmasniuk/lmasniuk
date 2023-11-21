@@ -1,7 +1,7 @@
 # Logan Masniuk | Full Stack Developer 💻🛠️ | Educator 👨🏻‍🏫📚 |
 Vancouver, BC 🇨🇦🌲🌊
 
-### Work: Educator for the Web Development bootcamps at BrainStation Vancouver 👨🏻‍🏫📓🎉
+### Work: Educator for Web Development bootcamps at BrainStation, Vancouver 👨🏻‍🏫📓🎉
 
 ### Play:
 * Mountain Biking
