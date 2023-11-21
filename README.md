@@ -2,15 +2,21 @@
 
 ![github-user-contribution](https://github.com/Lmasniuk/lmasniuk/assets/1847409/501d424b-d02d-4396-8302-10f5eb7160e4)
 
-### Technologies:
-* HTML
-* CSS
+### Languages:
 * JavaScript
-* Python
 * Java
+* Python
+* PHP
+
+### Libraries & Frameworks
+* Node
+* Express
+* React
+* Django
+* Laravel
   
 
-### Play:
+### Hobbies:
 * Mountain Biking
 * Freediving & Spearfishing
 * Snowboarding
