@@ -1,4 +1,4 @@
-# Logan Masniuk | Full Stack Developer 💻🛠️ | Educator 👨🏻‍🏫📚 |Vancouver, BC 🇨🇦🌲🌊
+# Logan Masniuk | Full Stack Developer 💻 | Educator 📚 |Vancouver,BC 🌲🌊
 
 ![github-user-contribution](https://github.com/Lmasniuk/lmasniuk/assets/1847409/501d424b-d02d-4396-8302-10f5eb7160e4)
 
