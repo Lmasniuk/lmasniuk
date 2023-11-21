@@ -3,8 +3,6 @@ Vancouver, BC 🇨🇦🌲🌊
 
 ### Work: Educator for Web Development bootcamps at BrainStation, Vancouver 👨🏻‍🏫📓🎉
 
-<script>alert('yo');</script>
-
 ### Play:
 * Mountain Biking
 * Freediving & Spearfishing
