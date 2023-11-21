@@ -2,7 +2,13 @@
 
 ![github-user-contribution](https://github.com/Lmasniuk/lmasniuk/assets/1847409/501d424b-d02d-4396-8302-10f5eb7160e4)
 
-### Work: Educator for Web Development bootcamps at BrainStation, Vancouver 👨🏻‍🏫📓🎉
+### Technologies:
+* HTML
+* CSS
+* JavaScript
+* Python
+* Java
+  
 
 ### Play:
 * Mountain Biking
