@@ -1,8 +1,9 @@
-# Welcome Logan Masniuk's Github Profile! 👋
+# Logan Masniuk | Full Stack Developer 💻🛠️ | Educator 👨🏻‍🏫📚 |
+Vancouver, BC 🇨🇦🌲🌊
 
-## Work: Educator for the Web Development bootcamps at BrainStation Vancouver 👨🏻‍🏫📓🎉
+### Work: Educator for the Web Development bootcamps at BrainStation Vancouver 👨🏻‍🏫📓🎉
 
-## Play:
+### Play:
 * Mountain Biking
 * Freediving & Spearfishing
 * Snowboarding
