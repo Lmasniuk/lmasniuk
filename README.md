@@ -1,9 +1,13 @@
 ## Logan Masniuk | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
 
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
+ <img alt="Github Snake Game Contribution" src="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
+</picture>
+
+https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg
 
 ### Languages:
 * JavaScript
