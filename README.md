@@ -7,8 +7,6 @@
  <img alt="Github Snake Game Contribution" src="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
 </picture>
 
-https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg
-
 ### Languages:
 * JavaScript
 * Java
