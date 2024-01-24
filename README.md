@@ -1,7 +1,9 @@
 ## Logan Masniuk | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
 
 
-![github-user-contribution](https://github.com/Lmasniuk/lmasniuk/assets/1847409/d1653135-d716-4157-934e-27a4f182b4a3)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+            
 
 ### Languages:
 * JavaScript
