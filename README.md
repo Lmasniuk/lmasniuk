@@ -7,26 +7,23 @@
  <img alt="Github Snake Game Contribution" src="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
 </picture>
 
-### Languages:
+### Preferred Languages:
 * JavaScript
 * Java
 * Python
-* PHP
 
 ### Libraries & Frameworks
-* Node
 * Express
 * React
 * Django
-* Laravel
   
 
 ### Hobbies:
 * Mountain Biking
 * Freediving & Spearfishing
 * Snowboarding
+* Yoga
 * Golf
-* Hiking
 * Camping
 * BMX
 
