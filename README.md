@@ -2,9 +2,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
- <img alt="Github Snake Game Contribution" src="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/51b956afbcc112cc200489ae5337833477015ed2/github-contribution-grid-snake.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/933f2bb21dbe4ff714e3a3860500bb70669ba0a6/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/933f2bb21dbe4ff714e3a3860500bb70669ba0a6/github-contribution-grid-snake.svg">
+ <img alt="Github Snake Game Contribution" src="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/933f2bb21dbe4ff714e3a3860500bb70669ba0a6/github-contribution-grid-snake.svg">
 </picture>
 
 ### Preferred Languages:
