@@ -22,8 +22,7 @@ I've dabbled in a lot of different programming languages, but have found that I 
 * Django
 
 ### Certifications
-<img align="center" src="https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/08/Certified-Scrum-Master-Badge.png" alt="logan-masniuk" height="50" width="50" />
-Certified Scrum Master via the <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Scrum Alliance</a>
+<img align="center" src="https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/08/Certified-Scrum-Master-Badge.png" alt="logan-masniuk" height="50" width="50" />Certified Scrum Master via the <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Scrum Alliance</a>
 
 ### Hobbies
 * Mountain Biking
