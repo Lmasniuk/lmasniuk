@@ -7,7 +7,9 @@
 </picture>
 
 ### About Me
-Hey folks, my name is Logan, who's worked the majority of my career as a software developer. I went to University of Victoria where I obtained a Bachelors of Science in the Computer Science program, and then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software, and am now an educator for web development bootcamps! I've dabbled in a lot of different programming languages, but have found that I am most keen on Javascript, although I don't shy away from learning anything else when needed. I'm also a certified scrum master, and have found myself championing the Scrum and Agile processes of any team/company that I have worked for. Software is written by humans, and I love getting involved in the human aspect, communicating amongst all folks involved, and pumping good vibes into any team I work with.
+Hey folks, my name is Logan, who's worked the majority of my career as a software developer. I went to University of Victoria where I obtained a Bachelors of Science in the Computer Science program, and then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software, and am now an educator for web development bootcamps!
+<br>
+I've dabbled in a lot of different programming languages, but have found that I am most keen on Javascript, although I don't shy away from learning anything else when needed. I'm also a certified scrum master, and have found myself championing the Scrum and Agile processes of any team/company that I have worked for. Software is written by humans, and I love getting involved in the human aspect, communicating amongst all folks involved, and pumping good vibes into any team I work with.
 
 ### Preferred Languages
 * JavaScript
@@ -20,8 +22,8 @@ Hey folks, my name is Logan, who's worked the majority of my career as a softwar
 * Django
 
 ### Certifications
+<img align="center" src="https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/08/Certified-Scrum-Master-Badge.png" alt="logan-masniuk" height="50" width="50" />
 Certified Scrum Master via the <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Scrum Alliance</a>
-<img align="center" src="https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/08/Certified-Scrum-Master-Badge.png" alt="logan-masniuk" height="40" width="40" />
 
 ### Hobbies
 * Mountain Biking
