@@ -7,7 +7,7 @@
 </picture>
 
 ### About Me
-Hey folks, my name is Logan. I've been a software developer for ~8 years. I went to University of Victoria where I obtained a Bachelors of Science in the Computer Science program, and then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software, and am now an educator for web development bootcamps!
+Hey folks, my name is Logan. I've been a software developer for ~10 years. I went to University of Victoria where I obtained a Bachelors of Science in the Computer Science program, and then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software, and am now an educator for web development bootcamps!
 <br><br>
 I've dabbled in a lot of different programming languages, but have found that I am most keen on Javascript, although I don't shy away from learning anything else when needed. I'm also a certified scrum master, and have found myself championing the Scrum and Agile processes of any team/company that I have worked for. Software is written by humans, and I love getting involved in the human aspect, communicating amongst all folks involved, and bringing good vibes into any team I work with.
 
