@@ -8,7 +8,7 @@
 
 ### About Me
 I've been a Software developer for around a decade. I went to University of Victoria where I obtained a Bachelors of Science in the Computer Science program, and then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software.
-<br><br>
+<br><br> 
 I've worked with a lot of different programming languages, but have found that I am most interested in Javascript, although I don't shy away from learning anything else when needed. I'm also a certified scrum master, and have found myself championing the scrum and agile processes of any team/company that I have worked for. Software is written by humans, and I love getting involved in the human aspect, communicating amongst all folks involved, and bringing good vibes into any team I work with.
 
 ### Preferred Languages
