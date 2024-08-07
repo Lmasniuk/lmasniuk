@@ -13,6 +13,7 @@ I've worked with a lot of different programming languages, but have found that I
 
 ### Preferred Languages
 * JavaScript
+* TypeScript
 * Java
 * Python
 
