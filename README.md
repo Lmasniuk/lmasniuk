@@ -1,4 +1,4 @@
-## Logan Masniuk | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
+## Logan Masniuk 🤠 | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
