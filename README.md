@@ -7,7 +7,7 @@
 </picture>
 
 ### About Me
-I've been a Software developer for around a decade. After obtainin a Bachelors of Science from UVic in Computer Science, I then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software.
+I've been a Software developer for around a decade. After obtainin a Bachelors of Science from UVic in Computer Science, I then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software. Most recently I was a senior educator for BrainStation teaching groups of students how to build full stack apps with HTML, CSS, and JavaScript(including React, Node and a lot of other goodies!)
 <br><br> <br>
 I've worked with a a handful of different programming languages, but have found that I am most interested in Javascript, although I don't shy away from learning anything else when needed. I've also earned my stripes with SQL, troubleshooting issues and fixing erroneous data! I'm also a certified scrum master, and have found myself championing the scrum and agile processes of any team/company that I have worked for. Software is written by humans, and I love interacting with people, collaborating, and doing my best to bring good energy and enthusiasm into any team I work with.
 
@@ -28,6 +28,7 @@ I've worked with a a handful of different programming languages, but have found 
 
 ### Hobbies
 * Mountain Biking
+* Gravel Biking
 * Freediving & Spearfishing
 * Snowboarding
 * Yoga
