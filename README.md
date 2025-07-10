@@ -6,6 +6,8 @@
 <img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
+
 ### About Me
 I've been a Software developer for around a decade. After obtainin a Bachelors of Science from UVic in Computer Science, I then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software. Most recently I was a senior educator for BrainStation teaching groups of students how to build full stack apps with HTML, CSS, and JavaScript(including React, Node and a lot of other goodies!)
 <br><br> <br>
