@@ -25,6 +25,9 @@ I've worked with a a handful of different programming languages, but have found 
 * Django
 * Spring
 
+### Projects
+See a collection of my projects on my portfolio: https://lmasniuk.github.io/
+
 ### Certifications
 <img align="center" src="https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/08/Certified-Scrum-Master-Badge.png" alt="logan-masniuk" height="50" width="50" />Certified Scrum Master via the <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Scrum Alliance</a>
 
