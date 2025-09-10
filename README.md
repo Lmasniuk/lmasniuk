@@ -1,6 +1,6 @@
 ## Logan Masniuk 🤠 | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
 
-### ⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
+#### ⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
