@@ -1,7 +1,6 @@
 ## Logan Masniuk 🤠 | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
 
-## Currently looking for full time opportunities! 
-Please see "Contact Me" section for contact details.
+### ⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
@@ -9,7 +8,7 @@ Please see "Contact Me" section for contact details.
 <img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
+
 
 ### About Me
 I've been a Software developer for around a decade. After getting my Bachelor's Degree from UVic in Computer Science, I then entered the tech industry, working at several companies, on things like payments, content creating platforms, gift card giving and employee recognition software. Most recently I was a senior software development educator for BrainStation teaching and mentoring groups of students how to build full stack apps with HTML, CSS, and JavaScript(including React, Node and a lot of other goodies!)
