@@ -1,6 +1,4 @@
-## Logan Masniuk 🤠 | Full Stack Developer 💻 | Educator 📚 | Vancouver, BC 🇨🇦🌲🌊
-
-#### ⭐️ I am currently looking for work! Please email or contact me on LinkedIn if you want to connect about an opportunity! ⭐️
+## Logan Masniuk 🤠 | Full Stack Developer 💻 | Vancouver, BC 🇨🇦🌲🌊
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
@@ -27,6 +25,7 @@ I've worked with a a handful of different programming languages, but lately I'm 
 * React
 * Express
 * Django
+* FastAPI
 * Spring
 
 ### Projects
